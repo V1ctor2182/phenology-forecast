@@ -51,6 +51,7 @@ google_site_verification: # fill in to your verification string
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
+img_path: /img/path/
 
 google_analytics:
   id: # fill in your Google Analytics ID
@@ -76,7 +77,7 @@ theme_mode: # [light|dark]
 img_cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/logo.jpg
+avatar: https://preview.redd.it/nybo6leby44b1.png?width=711&format=png&auto=webp&v=enabled&s=8c8b5a6f4ded9f759f745751a1eab00c3509473f
 
 # boolean type, the global switch for TOC in posts.
 toc: true
